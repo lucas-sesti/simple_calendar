@@ -1,8 +1,7 @@
 name: simple_calendar
 description: This is a package to have a simple calendar
 version: 0.0.1
-author: Lucas Buchalla Sesti
-homepage: github.o
+homepage: https://github.com/lucas-sesti/simple_calendar
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
